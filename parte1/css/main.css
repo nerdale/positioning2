@@ -9,8 +9,9 @@
 	width: 106px;
 	height: 106px;
 	background-color: #752E80;
-	position: absolute;
-	margin: 53px;
+	position: relative;
+	left: 53px;
+	top: 53px;
 }
 .amarillo{
 	width: 54px;
