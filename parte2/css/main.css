@@ -2,14 +2,14 @@
 	width: 215px;
 	height: 215px;
 	background-color: #0048FB;
-	position: static;
+	position: relative;
 
 }
 .verde{
 	width: 106px;
 	height: 106px;
 	background-color: #387804;
-	position: relative;
+	position: absolute;
 	left: 53px;
 	top: 53px;
 }
@@ -17,5 +17,5 @@
 	width: 54px;
 	height: 54px;
 	background-color: #000000;
-	position: absolute;
+	position: static;
 }
